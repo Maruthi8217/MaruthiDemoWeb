@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-11T19:46:47 IST" name="Default suite" finished-at="2023-06-11T19:46:47 IST" duration-ms="50">
+    <groups>
+    </groups>
+    <test started-at="2023-06-11T19:46:47 IST" name="Default test" finished-at="2023-06-11T19:46:47 IST" duration-ms="50">
+      <class name="data_provider.data_driven_testing">
+        <test-method signature="testing(java.lang.String,java.lang.String)[pri:0, instance:data_provider.data_driven_testing@4f83df68]" started-at="2023-06-11T19:46:47 IST" name="testing" data-provider="login" finished-at="2023-06-11T19:46:47 IST" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[manu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[8217]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing -->
+        <test-method signature="testing(java.lang.String,java.lang.String)[pri:0, instance:data_provider.data_driven_testing@4f83df68]" started-at="2023-06-11T19:46:47 IST" name="testing" data-provider="login" finished-at="2023-06-11T19:46:47 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[janu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[9739]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing -->
+        <test-method signature="testing(java.lang.String,java.lang.String)[pri:0, instance:data_provider.data_driven_testing@4f83df68]" started-at="2023-06-11T19:46:47 IST" name="testing" data-provider="login" finished-at="2023-06-11T19:46:47 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[deepu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[9964]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing -->
+      </class> <!-- data_provider.data_driven_testing -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
